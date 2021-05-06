@@ -1,0 +1,12 @@
+body{
+   margin: 0;
+   padding: 0;
+   background:url("../images/shop-942398_1920.jpg");
+   background-size: cover;
+}
+.bg-image{
+   width: 40%;
+   margin-top: 2px;
+   background: url("../images/water-366587_1920.jpg")no-repeat center center;
+   background-size: cover;
+}
